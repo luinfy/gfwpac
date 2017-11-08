@@ -266,6 +266,7 @@
 *.waveprotocol.org +GFWHack
 *.webmproject.org +GFWHack
 *.withgoogle.com +GFWHack
+*.youtube.com +GFWHack
 *.youtu.be +GFWHack
 *.youtu.cn +GFWHack
 *.youtu.com +GFWHack
