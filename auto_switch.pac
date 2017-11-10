@@ -244,6 +244,7 @@
 *.googlezeitgeist.com +GFWHack
 *.googlezip.net +GFWHack
 *.gosetsuden.jp +GFWHack
+*.gravatar.com +GFWHack
 *.gstatic.com +GFWHack
 *.gvt0.com +GFWHack
 *.gvt1.com +GFWHack
